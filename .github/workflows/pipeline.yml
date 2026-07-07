@@ -43,4 +43,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Confirmar build
-        run: echo "✅ Pipeline completado - lint, test y build exitosos"
+        run: echo "Pipeline completado - lint, test y build exitosos"
